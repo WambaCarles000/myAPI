@@ -1,2 +1,2 @@
 # myAPI
-This api retrieve data form third-parties sources and use them for personals purposes
+This api retrieve data from third-parties sources and use them for personals purposes
